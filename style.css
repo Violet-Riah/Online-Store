@@ -1,0 +1,31 @@
+.container{
+    text-align: center;
+    font-size: x-large;
+}
+/* .firs{
+    background-image: url(images/first.jpeg);
+    background-repeat: no-repeat; */
+
+.container2{
+    background-color: rgb(102, 207, 102);
+    display: flex;
+    gap: 50%;
+
+}
+.topnav{
+    display: flex;
+    gap: 7%;
+    
+}
+.act{
+    background-color: rgba(251, 247, 241, 0.697);
+    font-size: x-large;
+    border: 0ch;
+    
+}
+.text{
+    font-style:oblique;
+}
+.box1{
+    display: flex;
+}
