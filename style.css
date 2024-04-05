@@ -1,15 +1,25 @@
-.container{
-    text-align: center;
-    font-size: x-large;
-}
-/* .firs{
-    background-image: url(images/first.jpeg);
-    background-repeat: no-repeat; */
+.container1{
 
+   justify-content: center;
+   text-align: center;
+   font-size: x-large;
+   margin-right: 13%;
+   
+ 
+  
+}
 .container2{
-    background-color: rgb(102, 207, 102);
+background-color: rgb(99, 212, 99);
+display: flex;
+gap: 5%;
+}
+
+.container3{
+
+    background-repeat: no-repeat;
     display: flex;
-    gap: 50%;
+    background-color: rgb(170, 242, 170);
+    height: 90%;
 
 }
 .topnav{
@@ -25,7 +35,63 @@
 }
 .text{
     font-style:oblique;
+    
 }
 .box1{
     display: flex;
+    margin-right: 20%;
+    
+}
+.box2{
+    display: flex;
+    gap: 4%;
+    
+
+}
+.box3{
+    display: flex;
+    
+}
+.box4{
+    display: flex;
+    text-align: center;
+    gap: 5%;
+    border-left: 20%;
+    text-align: center;
+}
+.image{
+    display: flex;
+    text-align: center;
+}
+.boxtext{
+    display: flex;
+    text-align: center;
+}
+.textOftext{
+    display: flex;
+    gap: 5%;
+    text-align: center;
+}
+.pics{
+    display: flex;
+    gap: 3%;
+    border-radius: 8px;
+    text-align: center;
+}
+.footer{
+    background-color: rgb(244, 223, 197);
+    display: flex;
+    border-radius: 6px;
+    text-align: center;
+    gap: 6%;
+}
+.lastBTN{
+    background-color: rgb(120, 250, 120);
+    font-size: x-large;
+    border-radius: 6px;
+    text-align: center;
+}
+.button{
+    background-color: rgb(112, 219, 112);
+    font-size: x-large;
 }
